@@ -29,7 +29,7 @@ See [details on our policy on Code of Conduct](./CODEOFCONDUCT.md).
 * [Notes](#notes)
 
 <a id="developers-certificate-of-origin"></a>
-## Developer's Certificate of Origin 1.1
+## Developer's Certificate of Origin 1.0
 
 By making a contribution to this project, I certify that:
 
