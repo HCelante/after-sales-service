@@ -1,14 +1,14 @@
 # Contributing
 
-- [Contributing to Node.js](#contributing-to-nodejs)
+- [Contributing](#contributing)
   - [Code of Conduct](#code-of-conduct)
   - [Issues](#issues)
   - [Pull Requests](#pull-requests)
-  - [Developer's Certificate of Origin 1.1](#developers-certificate-of-origin-11)
+  - [Developer's Certificate of Origin 1.0](#developers-certificate-of-origin-11)
 
 ## [Code of Conduct](./CODEOFCONDUCT.md)
 
-The Node.js project has a
+The After Sales project has a
 [Code of Conduct](./CODEOFCONDUCT.md)
 to which all contributors must adhere.
 
