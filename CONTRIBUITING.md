@@ -1,4 +1,4 @@
-# Contributing to Node.js
+# Contributing
 
 - [Contributing to Node.js](#contributing-to-nodejs)
   - [Code of Conduct](#code-of-conduct)
